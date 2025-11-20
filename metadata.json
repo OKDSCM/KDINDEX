@@ -1,0 +1,5 @@
+{
+  "name": "Kirkku Exchange (KX)",
+  "description": "The official stock exchange of Kirkkonummi using the KD currency. Features real-time KX-10 index tracking, portfolio management, and trading for local entities.",
+  "requestFramePermissions": []
+}
